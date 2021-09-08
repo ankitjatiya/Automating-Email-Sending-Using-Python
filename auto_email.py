@@ -21,8 +21,8 @@ if today.weekday()==4:   #firday=4
 
 	#The mail addresses and password
 	sender_address = 'akj0147@gmail.com'
-	sender_pass = 'djankit0147'
-	receiver_address = 'ankit_1998@iitg.ac.in'
+	sender_pass = 'pswd'
+	receiver_address = 'jatin@iitg.ac.in'
 	#Setup the MIME
 	message = MIMEMultipart()
 	message['From'] = sender_address
